@@ -1,6 +1,6 @@
 # Battleship-Game-C#
 
-Battleship game developed in C# as a first homework for the Object-Oriented Programming class.
+Battleship game developed in C# as a third homework for the Object-Oriented Programming class.
 
 By Jennifer Vicentes
 
